@@ -1,21 +1,25 @@
 <h1 align="center">Hi 👋, I'm Mac Neil</h1>
-<h3 align="center">A passionate Web Developer from Malawi,Africa</h3>
+<h3 align="center">A passionate Software Engineer from Malawi,Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macneil265&label=Profile%20views&color=0e75b6&style=flat" alt="macneil265" /> </p>
 
 <p align="left"> <a href="https://twitter.com/macneil265" target="blank"><img src="https://img.shields.io/twitter/follow/macneil265?logo=twitter&style=for-the-badge" alt="macneil265" /></a> </p>
 
-- 🔭 I’m currently working on [Learning Management System](n/a)
+- 🔭 I’m currently working on a Learning Management System [n/a](n/a)
 
 - 🌱 I’m currently learning **Redux and Upstash**
 
-- 👨‍💻 All of my projects are available on [https://www.macneil265.tech/](https://www.macneil265.tech/)
+- 👨‍💻 Portfolio website built using React: : [https://www.macneil265.tech/](https://www.macneil265.tech/)
 
-- 💬 Ask me about **Redis,Typescript,Postman and MongoDB**
+- 👨‍💻 Client Website written using PHP for backend and bootstrap for the frontend [https://www.yplusmalawi.org/](https://www.yplusmalawi.org/)
+
+- 💬 Ask me about: **Redis,Typescript,Postman and MongoDB**
 
 - 📫 Email: **hello@macneil265.tech**
 
-- ⚡ Fun fact **Am still making PHP web applications**
+- 👨‍💻 Client Website written using PHP for backend and bootstrap for the frontend [https://bookersimon.com/](https://bookersimon.com/)
+
+- ⚡ Fun fact: **I still make PHP web applications for clients on a budget.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
