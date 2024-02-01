@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/macneil265" target="blank"><img src="https://img.shields.io/twitter/follow/macneil265?logo=twitter&style=for-the-badge" alt="macneil265" /></a> </p>
 
-- 🔭 I’m currently working on a Learning Management System 
+- 🔭 I’m currently working on a Learning Management System. My biggest project to date! 
 
 - 🌱 I’m currently learning **Redux and Upstash**
 
-- 👨‍💻 Portfolio website built using React: : [https://www.macneil265.tech/](https://www.macneil265.tech/)
+- 👨‍💻 My portfolio website built using React: : [https://www.macneil265.tech/](https://www.macneil265.tech/)
 
-- 💬 Ask me about: **Redis,Typescript,Postman and MongoDB**
+- 💬 Ask me about: **Redis,Typescript,Postman, PHP, Bootstrap and MongoDB**
 
 - 📫 Email: **hello@macneil265.tech**
 
