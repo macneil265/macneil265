@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Redux and Upstash**
 
-- 👨‍💻 My portfolio website built using React: : [https://www.mackiee.vercel.app/](https://www.mackiee.vercel.app/)
+- 👨‍💻 My portfolio website built using React: [https://www.mackiee.vercel.app/](https://www.mackiee.vercel.app/)
 
 - 💬 Ask me about: **Redis,Typescript,Postman, PHP, Bootstrap and MongoDB**
 
