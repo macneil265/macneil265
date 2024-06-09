@@ -17,7 +17,7 @@
 - 💬 Ask me about: **Redis, Typescript, Postman, PHP, Bootstrap, and MongoDB**
 - 📫 Email: **hello@macneil265.tech**
 - 👨‍💻 Client Website built using PHP for the backend and Bootstrap for the frontend: [https://bookersimon.com/](https://bookersimon.com/)
-- 👨‍💻 Client Website built using PHP for backend and Bootstrap for the frontend: [https://www.yplusmalawi.org/](https://www.yplusmalawi.org/)
+- 👨‍💻 Client Website built using PHP for backend and Bootstrap for the frontend: [https://www.yplusmalawi.org/](https://yplusmalawi.org/)
 - ⚡ Fun fact: **I still make PHP web applications for "clients on a budget".**
 
 <h3 align="left">Connect with me:</h3>
