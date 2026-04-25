@@ -1,88 +1,142 @@
-<h1 align="center">Hi 👋, I'm Mac Neil</h1>
-<h3 align="center">A passionate Software Engineer from Malawi, Africa.</h3>
+<div align="center">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=macneil265&label=Profile%20views&color=0e75b6&style=flat" alt="macneil265" /> 
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey+there%2C+I%27m+Mac+Neil+%F0%9F%91%8B;Software+Engineer+from+Malawi+%F0%9F%87%B2%F0%9F%87%BC;Building+for+Africa+%26+beyond+%F0%9F%8C%8D" alt="Typing SVG" />
+</a>
 
-<p align="left"> 
-  <a href="https://twitter.com/macneil265" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/macneil265?logo=twitter&style=for-the-badge" alt="macneil265" />
-  </a> 
-</p>
-
-- 🔭 I’m currently working on a Learning Management System. My biggest project to date!
-- 🌱 I’m currently learning **Redux and Upstash**
-- 👨‍💻 My portfolio website built using React: [https://mackiee.vercel.app/](https://mackiee.vercel.app/)
-- 💬 Ask me about: **Redis, Typescript, Postman, PHP, Bootstrap, and MongoDB**
-- 📫 Email: **hello@macneil265.tech**
-- 👨‍💻 Client Website built using PHP for the backend and Bootstrap for the frontend: [https://bookersimon.com/](https://bookersimon.com/)
-- 👨‍💻 Client Website built using PHP for backend and Bootstrap for the frontend: [https://www.yplusmalawi.org/](https://yplusmalawi.org/)
-- ⚡ Fun fact: **I still make PHP web applications for "clients on a budget".**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/macneil265" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="macneil265" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/macneil-mponda" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="macneil mponda" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/macneil.mponda" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="macneil mponda" height="30" width="40" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=macneil265&label=Profile%20views&color=3b82f6&style=flat-square" alt="profile views" />
+  <a href="https://twitter.com/macneil265">
+    <img src="https://img.shields.io/twitter/follow/macneil265?logo=twitter&style=flat-square&color=3b82f6" alt="twitter" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-</p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macneil265&" alt="macneil265" /></p>
+---
+
+## 🚀 About Me
+
+I'm a **Software Engineer based in Malawi, Africa** — building full-stack web applications with a strong focus on performance, clean architecture, and real-world impact.
+
+- 🔭 Currently building a **Learning Management System** — my most ambitious project yet
+- 🌱 Currently going deeper into **Redis, Upstash, real-time systems with Socket.io, and RAG pipelines**
+- ⚡ I still build PHP apps for clients on a budget — no shame in it!
+- 💬 Ask me about: **TypeScript, Next.js, Express, Redis, Prisma, REST APIs, Postman**
+- 📫 Reach me at: **hello@macneil265.tech**
+
+---
+
+## 🛠️ Current Tech Stack
+
+> What I'm actively using in production right now
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radix-ui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=flat-square)
+![Tiptap](https://img.shields.io/badge/Tiptap_Editor-6366f1?style=flat-square)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express v5](https://img.shields.io/badge/Express_v5-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod_Validation-3E67B1?style=flat-square)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square)
+![React Email](https://img.shields.io/badge/React_Email-000000?style=flat-square&logo=react&logoColor=white)
+
+### Database & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+### Auth & Security
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Helmet](https://img.shields.io/badge/Helmet.js-E34F26?style=flat-square)
+![bcrypt](https://img.shields.io/badge/bcryptjs-yellow?style=flat-square)
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-FF6B6B?style=flat-square)
+
+### DevOps & Tools
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+### Also work with
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+---
+
+## 🏗️ Featured Projects
+
+### 🎓 Learning Management System *(In Progress)*
+> My most ambitious project to date. A full-featured LMS built with Next.js 16, Express v5, Prisma, PostgreSQL, and real-time features via Socket.io. Includes role-based access, content management, and progress tracking.
+`Next.js` `Express` `Prisma` `PostgreSQL` `Socket.io` `Redis` `NextAuth`
+
+---
+
+### 🌐 [Y+ Malawi](https://www.yplusmalawi.org/)
+> Client website rebuilt with a modern stack — Next.js frontend, Express backend, Prisma ORM, and Upstash Redis for caching. Includes a CMS, contact forms via Resend, and a careers/vacancies module.
+`Next.js` `Express` `Prisma` `Upstash` `Resend` `TailwindCSS`
+
+---
+
+### 👤 [My Portfolio](https://mackiee.vercel.app/)
+> Personal portfolio built with React, showcasing my work and skills.
+`React` `Vercel`
+
+---
+
+### 📋 [Booker Simon](https://bookersimon.com/)
+> Client website — PHP backend with Bootstrap frontend.
+`PHP` `Bootstrap` `MySQL`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=macneil265&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macneil265&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=macneil265&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="left">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/macneil265)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/macneil-mponda)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/macneil.mponda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@macneil265.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mackiee.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Open to freelance work, remote opportunities, and interesting collaborations.</i>
+</div>
