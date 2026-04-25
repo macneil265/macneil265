@@ -19,7 +19,6 @@
 
 I'm a **Software Engineer based in Malawi, Africa** — building full-stack web applications with a strong focus on performance, clean architecture, and real-world impact.
 
-- 🔭 Currently building a **Learning Management System** — my most ambitious project yet
 - 🌱 Currently going deeper into **Redis, Upstash, real-time systems with Socket.io, and RAG pipelines**
 - ⚡ I still build PHP apps for clients on a budget — no shame in it!
 - 💬 Ask me about: **TypeScript, Next.js, Express, Redis, Prisma, REST APIs, Postman**
