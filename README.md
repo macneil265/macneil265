@@ -23,7 +23,7 @@ I'm a **Software Engineer based in Malawi, Africa** — building full-stack web 
 - 🌱 Currently going deeper into **Redis, Upstash, real-time systems with Socket.io, and RAG pipelines**
 - ⚡ I still build PHP apps for clients on a budget — no shame in it!
 - 💬 Ask me about: **TypeScript, Next.js, Express, Redis, Prisma, REST APIs, Postman**
-- 📫 Reach me at: **hello@macneil265.tech**
+- 📫 Reach me at: **macneilmponda@gmail.com**
 
 ---
 
